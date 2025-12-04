@@ -10,7 +10,7 @@ Template: index
 
 |#|Part|Details|Total Duration|Status|
 |:-|:-|:-|:-|:-|
-|1|[Develop](%base_url%/pm#Develop_timeplan)|2025-11-25 - |- hours|ONGOING|
+|1|[Develop](%base_url%/pm#Develop_timeplan)|2025-12-03 - |- hours|ONGOING|
 |2|[Maintenance](%base_url%/pm#Maintenance_timeplan)|-|- hours|-|
 |:-|:-|:-|::||
 
@@ -20,11 +20,11 @@ Template: index
 ```mermaid
 gantt
     section MD1
-    SD1 - Plan how to work part1                :md1des1, 2025-11-26,1d
+    SD1 - Plan how to work part1                :md1des1, 2025-12-03,2d
     SD2 - Develop                :md1des2, after md1des1,2d
 
     section MD2
-    SD1 - Document                :md2des1, 2025-11-29,1d
+    SD1 - Document                :md2des1, 2025-12-06,1d
 ```
 
 ## Maintenance timeplan
@@ -40,7 +40,7 @@ gantt
 >## 48-006
 >### Recode CalApp as a spring project ![status](https://img.shields.io/badge/status-ONGOING-yellow)
 ><details>
-    ><summary>Details</summary>
+    <summary>Details</summary>
 >
 >>The goal of this card is to recode CalAppV2 as a spring project.
 >>
@@ -65,7 +65,7 @@ gantt
 >## 48-007
 ### Impliment CalApp to Tomcat as a service ![status](https://img.shields.io/badge/>status-NOT--STARTED-lightgrey)
 ><details>
-    ><summary>Details</summary>
+    <summary>Details</summary>
 >
 >>The goal of this card is to develop a version of CalAppV2 to impliment to Tomcat as a service.
 >>
@@ -90,7 +90,7 @@ gantt
 >## 48-008
 >### Investigate about useful tools. ![status](https://img.shields.io/badge/status-NOT--STARTED-lightgrey)
 ><details>
-    ><summary>Details</summary>
+    <summary>Details</summary>
 >
 >The goal of this card is to investigate about useful tools and methods (WOW) that can make it easre/faster >to code.
 >>
@@ -114,7 +114,7 @@ gantt
 >## 48-009
 >### Spike how to automate tests ![status](https://img.shields.io/badge/status-NOT--STARTED-lightgrey)
 ><details>
-    ><summary>Details</summary>
+><summary>Details</summary>
 >
 >>The goal of this card is to spike how to automate tests.
 >>

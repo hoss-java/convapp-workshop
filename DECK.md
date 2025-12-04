@@ -6,6 +6,17 @@ Robots: noindex,nofollow
 Template: index
 ---
 
+# ConvApp workshop
+
+Abbreviations
+> * PM Product Milestone
+> * MD Milestone division
+> * SD Subdivision
+
+![status](https://img.shields.io/badge/status-NOT--STARTED-lightgrey)
+![status](https://img.shields.io/badge/status-ONGOING-yellow)
+![status](https://img.shields.io/badge/status-DONE-brightgreen)
+
 ## Analyzing all parts
 
 |#|Part|Details|Total Duration|Status|
@@ -38,9 +49,9 @@ gantt
 
 ## Stories left over from [CalApp](https://github.com/hoss-java/calapp-workshop/blob/main/DECK.md)
 >## 48-006
->### Recode CalApp as a spring project ![status](https://img.shields.io/badge/status-ONGOING-yellow)
+>### Recode CalApp as a spring project ![status](https://img.shields.io/badge/>status-NOT--STARTED-lightgrey)
 ><details>
-    <summary>Details</summary>
+>    <summary>Details</summary>
 >
 >>The goal of this card is to recode CalAppV2 as a spring project.
 >>
@@ -65,7 +76,7 @@ gantt
 >## 48-007
 ### Impliment CalApp to Tomcat as a service ![status](https://img.shields.io/badge/>status-NOT--STARTED-lightgrey)
 ><details>
-    <summary>Details</summary>
+>    <summary>Details</summary>
 >
 >>The goal of this card is to develop a version of CalAppV2 to impliment to Tomcat as a service.
 >>
@@ -90,7 +101,7 @@ gantt
 >## 48-008
 >### Investigate about useful tools. ![status](https://img.shields.io/badge/status-NOT--STARTED-lightgrey)
 ><details>
-    <summary>Details</summary>
+>    <summary>Details</summary>
 >
 >The goal of this card is to investigate about useful tools and methods (WOW) that can make it easre/faster >to code.
 >>

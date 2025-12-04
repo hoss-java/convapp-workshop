@@ -146,6 +146,55 @@ gantt
 >>* []()
 ></details>
 
+## 49-001
+### Create an empty Maven project for ConvApp ![status](https://img.shields.io/badge/status-DONE-brightgreen)
+<details>
+    <summary>Details</summary>
+
+>The goal of this card is to create and pushing an empty Maven project included README and DECK files.
+>
+>### DOD  (definition of done):
+>ConvApp is created and pushed.
+>
+>### TODO :
+>- [x] 1. README and DECK
+>
+>### Reports :
+>* 
+>
+>### Steps to test and debugging:
+>- [] 1.
+>
+>### References :
+>* []()
+</details>
+
+## 49-002
+### Plan how to work on ConvApp ![status](https://img.shields.io/badge/status-ONGOING-yellow)
+<details>
+    <summary>Details</summary>
+
+>The goal of this card is to recap wath are done before through CalApp and what are left over and need to be worked on.
+>It also aims to have a plan with created cards to contnue working on ConvApp.
+>
+>### DOD  (definition of done):
+>Cards are created and pushed.
+>
+>### TODO :
+>- [ ] 1. Recap
+>- [ ] 2. Plan
+>- [ ] 3. Create stories
+>
+>### Reports :
+>* 
+>
+>### Steps to test and debugging:
+>- [] 1.
+>
+>### References :
+>* []()
+</details>
+
 
 # Stories/cards MD2 - Develop
 

@@ -48,6 +48,7 @@ gantt
 # Stories/cards MD1 - Develop
 
 ## Stories left over from [CalApp](https://github.com/hoss-java/calapp-workshop/blob/main/DECK.md)
+
 >## 48-006
 >### Recode CalApp as a spring project ![status](https://img.shields.io/badge/>status-NOT--STARTED-lightgrey)
 ><details>
@@ -74,7 +75,7 @@ gantt
 >
 >
 >## 48-007
-### Impliment CalApp to Tomcat as a service ![status](https://img.shields.io/badge/>status-NOT--STARTED-lightgrey)
+>### Impliment CalApp to Tomcat as a service ![status](https://img.shields.io/badge/>status-NOT--STARTED-lightgrey)
 ><details>
 >    <summary>Details</summary>
 >
